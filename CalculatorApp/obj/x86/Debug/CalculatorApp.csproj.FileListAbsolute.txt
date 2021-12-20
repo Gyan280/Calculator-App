@@ -1,0 +1,14 @@
+C:\Users\F.O.P\AppData\Local\Temporary Projects\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\F.O.P\AppData\Local\Temporary Projects\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\F.O.P\AppData\Local\Temporary Projects\CalculatorApp\obj\x86\Debug\CalculatorApp.Form1.resources
+C:\Users\F.O.P\AppData\Local\Temporary Projects\CalculatorApp\obj\x86\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\F.O.P\AppData\Local\Temporary Projects\CalculatorApp\obj\x86\Debug\CalculatorApp.csproj.GenerateResource.Cache
+C:\Users\F.O.P\AppData\Local\Temporary Projects\CalculatorApp\obj\x86\Debug\CalculatorApp.exe
+C:\Users\F.O.P\AppData\Local\Temporary Projects\CalculatorApp\obj\x86\Debug\CalculatorApp.pdb
+C:\Users\F.O.P\Desktop\C# Projects\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.exe
+C:\Users\F.O.P\Desktop\C# Projects\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.pdb
+C:\Users\F.O.P\Desktop\C# Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\F.O.P\Desktop\C# Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\F.O.P\Desktop\C# Projects\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.Form1.resources
+C:\Users\F.O.P\Desktop\C# Projects\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\F.O.P\Desktop\C# Projects\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.csproj.GenerateResource.Cache
